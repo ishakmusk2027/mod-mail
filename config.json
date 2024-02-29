@@ -1,0 +1,18 @@
+  {
+    "prefix": "b",
+    "BotName": "MODMAIL Ball",
+
+    "ServerID": "1191663192049455185",
+    "ServerName": "🏀・ACCOUNT Ball・🏀",
+    "ModeratorRole": "🏀・ADMIN・🏀",
+    "ModMailCategoryName": "🏀 ACCOUNT BOT 🏀 --- MOD ---",
+    
+    "EmbedColor": "#ff6600",
+    "CloseEmbedColor": "#ff6600",
+    "OpenEmbedColor": "#ff6600",
+    "EmbedFooter": "",
+    
+    "StatusText": "🏀・ACCOUNT Ball",
+    "StatusType": "STREAMING",
+    "StatusURL": "https://www.twitch.tv/anounimos"
+}  
